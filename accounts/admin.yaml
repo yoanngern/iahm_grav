@@ -1,0 +1,12 @@
+email: yoann.gern@ministries.io
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+    editor: true
+fullname: 'Yoann Gern'
+title: Monsieur
+hashed_password: $2y$10$lvq4Smf7R96NPV.p/9dt5eUSjw8d69dX4zBN2T1jxpecqqVhLQOsO
+language: en
